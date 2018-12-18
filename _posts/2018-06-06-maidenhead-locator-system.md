@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Maidenhead Locator System"
-date:   2018-06-06 23:35:01 +0000
+layout:	post
+title:	"Maidenhead Locator System"
+date:	2018-06-06 23:35:01 +0000
+catalog:	true
 categories:
   - Amateur-Radio
 tags:

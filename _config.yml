@@ -2,10 +2,10 @@
 title: BG6LH
 SEOTitle: Blog of BG6LH
 header-img: img/home-bg-qrp.jpg
-email: jamflying@gmail.com
+email:BG6LH@qsl.net
 description: "Blog of BG6LH"
 keyword: "BG6LH"
-url: "https://jamflying.info"          # your host, for absolute URL
+url: ""          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jamflying/jamflying.github.io.git" # you code repository
 

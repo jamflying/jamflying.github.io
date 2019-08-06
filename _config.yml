@@ -5,13 +5,13 @@ header-img: img/home-bg.jpg
 email: BG6LH@qsl.net
 description: "Blog of BG6LH"
 keyword: "BG6LH"
-url: ""          # your host, for absolute URL
+url: "https://jamflying.info"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jamflying/jamflying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "CQ DE BG6LH K"
+sidebar-about-description: "CQ CQ CQ DE BG6LH K"
 sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
